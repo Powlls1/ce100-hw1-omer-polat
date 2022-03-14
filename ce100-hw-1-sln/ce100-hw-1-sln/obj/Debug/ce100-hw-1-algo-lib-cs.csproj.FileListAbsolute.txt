@@ -1,0 +1,6 @@
+C:\Users\opola\source\repos\ce100-hw-1-sln\ce100-hw-1-sln\bin\Debug\ce100-hw-1-sln.dll
+C:\Users\opola\source\repos\ce100-hw-1-sln\ce100-hw-1-sln\bin\Debug\ce100-hw-1-sln.pdb
+C:\Users\opola\source\repos\ce100-hw-1-sln\ce100-hw-1-sln\obj\Debug\ce100-hw-1-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\opola\source\repos\ce100-hw-1-sln\ce100-hw-1-sln\obj\Debug\ce100-hw-1-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\opola\source\repos\ce100-hw-1-sln\ce100-hw-1-sln\obj\Debug\ce100-hw-1-sln.dll
+C:\Users\opola\source\repos\ce100-hw-1-sln\ce100-hw-1-sln\obj\Debug\ce100-hw-1-sln.pdb
